@@ -1,11 +1,11 @@
 # RocketEngineOpt
 Small scale liquid rocket engine optimization. Created by Ben Holland and Josh Schechter for the Colorado School of Mines Physics Department senior design.
 
-Mission Definition:
+#Mission Definition:
 TBD
-Vehicle Selection:
+#Vehicle Selection:
 TBD
-Engine Requirements:
+#Engine Requirements:
 TBD
-Technology Limits:
+#Technology Limits:
 TBS
